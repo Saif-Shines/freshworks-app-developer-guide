@@ -4,7 +4,7 @@ Thousands of businesses use Freshworks' software as a service products to solve 
 
 ## Guides
 
-<summary>Get Started
+<summary> <a href='./get-started'>Get Started</a>
 <details>
 This guide covers, What is Freshworks Developer Platform and Web Apps those run on the platform. By the end of reading this guide, developer would have built a thought process and apply own approach when solving a use case.
 </details>
