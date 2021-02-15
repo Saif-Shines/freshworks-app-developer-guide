@@ -1,6 +1,7 @@
 ## Get Started on Freshworks Platform
-
-![cover image](./images/cover.png)
+<p>
+<img src="./images/cover.png" height=350 align=center/>
+</p>
 
 ---
 
