@@ -6,6 +6,8 @@ Thousands of businesses use Freshworks' software as a service products to solve 
 
 <a href='./get-started'>Get Started</a>
 
+[See Table of Contents](./get-started/toc.md)
+
 This guide covers, What is Freshworks Developer Platform and Web Apps those run on the platform. By the end of reading this guide, developer would have built a thought process and apply own approach when solving a use case. So, let's [get started](./get-started/toc.md).
 
 ## Contributions
