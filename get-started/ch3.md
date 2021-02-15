@@ -164,4 +164,4 @@ There has to be a way for Freshworks App developers can develop apps on own loca
 
 See Testing section if there's any. It would describe you how you can locally simulate and develop your app.
 
-However, this is not a tutorial. All the resources that you may need, I will add them in Appendix B.
+However, this is not a tutorial. All the resources that you may need, I will add them in [Appendix B](./apB.md).
