@@ -27,7 +27,7 @@ If Freshworks App has to play in production, platform take app's source code zip
 
 ![](./images/ch1-1.svg)
 
-[Edit it on Excalidraw](https://excalidraw.com/#json=4705880566136832,AtyL2E71ucIRDOxkwnmHcQ)
+[Edit it on Excalidraw](https://excalidraw.com/#json=6526815501811712,J_h46h6JHZ7vrsLgJ6KbDw)
 
 What else?
 
